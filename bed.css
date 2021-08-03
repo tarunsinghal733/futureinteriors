@@ -1,0 +1,6 @@
+.row .col-md-4 .bed img{
+    transition: linear;
+}
+.row .col-md-4 .bed img:hover{
+    transform: scale(1.2);
+}
